@@ -18,7 +18,7 @@ A curated list of awesome projects in the Harbor ecosystem.
 - [skillsbench](https://github.com/benchflow-ai/skillsbench) - Measures agent ability to use skills
 - [otel-bench](https://github.com/QuesmaOrg/otel-bench) - Measures agent ability to instrument code with OpenTelemetry across multiple languages
 - [CompileBench](https://github.com/QuesmaOrg/CompileBench) - Measures agent ability to build a working binary from source
-- [harbor-datasets](https://github.com/laude-institute/harbor-datasets) - Popular benchmarks (e.g. SWE-bench verified) ported to run in Harbor - do all your evals in one place
+- [harbor-datasets](https://github.com/laude-institute/harbor-datasets) - Popular benchmarks (e.g. SWE-bench verified) ported to run in Harbor.
 
 ## Training Datasets
 
